@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Seya-Mali
 - 👀 I’m interested in Coding and Readin novels.
-- 🌱 I’m currently learning C++ and Java
+- 🌱 I’m currently learning Java and Linux
 - 💞️ I’m looking to collaborate on beginner friendly projects on C,C++,Java and Python
 - 📫 My email is Seya195251@gmail.com
 - 😄 Pronouns: she/her
